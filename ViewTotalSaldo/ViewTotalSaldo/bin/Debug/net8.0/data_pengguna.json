@@ -1,0 +1,17 @@
+[
+    {
+        "Nama": "John Doe",
+        "Pin": "1234",
+        "Saldo": 5000000.00
+    },
+    {
+        "Nama": "Jane Smith",
+        "Pin": "5678",
+        "Saldo": 7500000.50
+    },
+    {
+        "Nama": "Bob Johnson",
+        "Pin": "9012",
+        "Saldo": 2500000.75
+    }
+]

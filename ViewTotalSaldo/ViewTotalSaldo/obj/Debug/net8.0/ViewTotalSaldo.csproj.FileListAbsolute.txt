@@ -1,0 +1,14 @@
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\bin\Debug\net8.0\ViewTotalSaldo.exe
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\bin\Debug\net8.0\ViewTotalSaldo.deps.json
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\bin\Debug\net8.0\ViewTotalSaldo.runtimeconfig.json
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\bin\Debug\net8.0\ViewTotalSaldo.dll
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\bin\Debug\net8.0\ViewTotalSaldo.pdb
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\obj\Debug\net8.0\ViewTotalSaldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\obj\Debug\net8.0\ViewTotalSaldo.AssemblyInfoInputs.cache
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\obj\Debug\net8.0\ViewTotalSaldo.AssemblyInfo.cs
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\obj\Debug\net8.0\ViewTotalSaldo.csproj.CoreCompileInputs.cache
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\obj\Debug\net8.0\ViewTotalSaldo.dll
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\obj\Debug\net8.0\refint\ViewTotalSaldo.dll
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\obj\Debug\net8.0\ViewTotalSaldo.pdb
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\obj\Debug\net8.0\ViewTotalSaldo.genruntimeconfig.cache
+C:\Users\tb\source\repos\ViewTotalSaldo\ViewTotalSaldo\obj\Debug\net8.0\ref\ViewTotalSaldo.dll
