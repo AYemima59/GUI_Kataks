@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tb\\source\\repos\\ViewTotalSaldo\\ViewTotalSaldo\\ViewTotalSaldo.csproj",
+      "projectUniqueName": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\ViewTotalSaldo\\ViewTotalSaldo.csproj",
       "projectName": "ViewTotalSaldo",
-      "projectPath": "C:\\Users\\tb\\source\\repos\\ViewTotalSaldo\\ViewTotalSaldo\\ViewTotalSaldo.csproj",
+      "projectPath": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\ViewTotalSaldo\\ViewTotalSaldo.csproj",
       "packagesPath": "C:\\Users\\tb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tb\\source\\repos\\ViewTotalSaldo\\ViewTotalSaldo\\obj\\",
+      "outputPath": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\ViewTotalSaldo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
