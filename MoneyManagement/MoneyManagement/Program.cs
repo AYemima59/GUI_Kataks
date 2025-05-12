@@ -1,4 +1,4 @@
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.Configuration;
 
 var builder = new ConfigurationBuilder()
     .AddJsonFile("appsettings.json");
