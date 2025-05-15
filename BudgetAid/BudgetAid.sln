@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetAid", "BudgetAid\BudgetAid.csproj", "{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetAid.Test", "BudgetAid.Test\BudgetAid.Test.csproj", "{F639F4B1-48E9-431F-A9BD-296566F71F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F639F4B1-48E9-431F-A9BD-296566F71F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F639F4B1-48E9-431F-A9BD-296566F71F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F639F4B1-48E9-431F-A9BD-296566F71F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F639F4B1-48E9-431F-A9BD-296566F71F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0662C4F-0ECB-4E74-801A-13B931F26B82}
+	EndGlobalSection
+EndGlobal

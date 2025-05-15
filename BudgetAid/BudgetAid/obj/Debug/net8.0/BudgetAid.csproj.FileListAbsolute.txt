@@ -1,0 +1,14 @@
+D:\project sem 6\BudgetAid\BudgetAid\obj\Debug\net8.0\BudgetAid.GeneratedMSBuildEditorConfig.editorconfig
+D:\project sem 6\BudgetAid\BudgetAid\obj\Debug\net8.0\BudgetAid.AssemblyInfoInputs.cache
+D:\project sem 6\BudgetAid\BudgetAid\obj\Debug\net8.0\BudgetAid.AssemblyInfo.cs
+D:\project sem 6\BudgetAid\BudgetAid\obj\Debug\net8.0\BudgetAid.csproj.CoreCompileInputs.cache
+D:\project sem 6\BudgetAid\BudgetAid\bin\Debug\net8.0\BudgetAid.exe
+D:\project sem 6\BudgetAid\BudgetAid\bin\Debug\net8.0\BudgetAid.deps.json
+D:\project sem 6\BudgetAid\BudgetAid\bin\Debug\net8.0\BudgetAid.runtimeconfig.json
+D:\project sem 6\BudgetAid\BudgetAid\bin\Debug\net8.0\BudgetAid.dll
+D:\project sem 6\BudgetAid\BudgetAid\bin\Debug\net8.0\BudgetAid.pdb
+D:\project sem 6\BudgetAid\BudgetAid\obj\Debug\net8.0\BudgetAid.dll
+D:\project sem 6\BudgetAid\BudgetAid\obj\Debug\net8.0\refint\BudgetAid.dll
+D:\project sem 6\BudgetAid\BudgetAid\obj\Debug\net8.0\BudgetAid.pdb
+D:\project sem 6\BudgetAid\BudgetAid\obj\Debug\net8.0\BudgetAid.genruntimeconfig.cache
+D:\project sem 6\BudgetAid\BudgetAid\obj\Debug\net8.0\ref\BudgetAid.dll

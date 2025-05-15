@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project sem 6\\BudgetAid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F639F4B1-48E9-431F-A9BD-296566F71F00}|BudgetAid.Test\\BudgetAid.Test.csproj|d:\\project sem 6\\budgetaid\\budgetaid.test\\expenseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F639F4B1-48E9-431F-A9BD-296566F71F00}|BudgetAid.Test\\BudgetAid.Test.csproj|solutionrelative:budgetaid.test\\expenseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F639F4B1-48E9-431F-A9BD-296566F71F00}|BudgetAid.Test\\BudgetAid.Test.csproj|d:\\project sem 6\\budgetaid\\budgetaid.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F639F4B1-48E9-431F-A9BD-296566F71F00}|BudgetAid.Test\\BudgetAid.Test.csproj|solutionrelative:budgetaid.test\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}|BudgetAid\\BudgetAid.csproj|d:\\project sem 6\\budgetaid\\budgetaid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}|BudgetAid\\BudgetAid.csproj|solutionrelative:budgetaid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}|BudgetAid\\BudgetAid.csproj|d:\\project sem 6\\budgetaid\\budgetaid\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}|BudgetAid\\BudgetAid.csproj|solutionrelative:budgetaid\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}|BudgetAid\\BudgetAid.csproj|d:\\project sem 6\\budgetaid\\budgetaid\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A88C03-6D39-498F-9CEF-3B121F0A67BD}|BudgetAid\\BudgetAid.csproj|solutionrelative:budgetaid\\services\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseServiceTests.cs",
+              "DocumentMoniker": "D:\\project sem 6\\BudgetAid\\BudgetAid.Test\\ExpenseServiceTests.cs",
+              "RelativeDocumentMoniker": "BudgetAid.Test\\ExpenseServiceTests.cs",
+              "ToolTip": "D:\\project sem 6\\BudgetAid\\BudgetAid.Test\\ExpenseServiceTests.cs",
+              "RelativeToolTip": "BudgetAid.Test\\ExpenseServiceTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:18:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\project sem 6\\BudgetAid\\BudgetAid.Test\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "BudgetAid.Test\\MSTestSettings.cs",
+              "ToolTip": "D:\\project sem 6\\BudgetAid\\BudgetAid.Test\\MSTestSettings.cs",
+              "RelativeToolTip": "BudgetAid.Test\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:13:52.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\project sem 6\\BudgetAid\\BudgetAid\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "BudgetAid\\Models\\Expense.cs",
+              "ToolTip": "D:\\project sem 6\\BudgetAid\\BudgetAid\\Models\\Expense.cs",
+              "RelativeToolTip": "BudgetAid\\Models\\Expense.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:37:45.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "D:\\project sem 6\\BudgetAid\\BudgetAid\\Services\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "BudgetAid\\Services\\ExpenseService.cs",
+              "ToolTip": "D:\\project sem 6\\BudgetAid\\BudgetAid\\Services\\ExpenseService.cs",
+              "RelativeToolTip": "BudgetAid\\Services\\ExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:56:36.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project sem 6\\BudgetAid\\BudgetAid\\Program.cs",
+              "RelativeDocumentMoniker": "BudgetAid\\Program.cs",
+              "ToolTip": "D:\\project sem 6\\BudgetAid\\BudgetAid\\Program.cs",
+              "RelativeToolTip": "BudgetAid\\Program.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwHQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:43:55.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
