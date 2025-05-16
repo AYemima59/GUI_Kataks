@@ -1,23 +1,16 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;
+using PenggunaLibrary;
 
 namespace SaldoBankJson
 {
-    class Program
+    public class Program
     {
-        public class Pengguna
-        {
-            public string Nama { get; set; }
-            public string Pin { get; set; }
-            public decimal Saldo { get; set; }
-        }
-
         static void Main(string[] args)
         {
             Console.WriteLine("=== Aplikasi Cek Saldo ===");
 
-            // Baca file JSON
             string filePath = "data_pengguna.json";
 
             if (!File.Exists(filePath))
@@ -28,7 +21,6 @@ namespace SaldoBankJson
 
             try
             {
-                // Baca semua pengguna dari file JSON
                 string jsonData = File.ReadAllText(filePath);
                 var penggunaList = JsonSerializer.Deserialize<Pengguna[]>(jsonData);
 
@@ -38,7 +30,6 @@ namespace SaldoBankJson
                 Console.Write("Masukkan PIN: ");
                 string pinInput = Console.ReadLine();
 
-                // Cari pengguna yang sesuai
                 Pengguna pengguna = Array.Find(penggunaList, p =>
                     p.Nama.Equals(namaInput, StringComparison.OrdinalIgnoreCase) &&
                     p.Pin == pinInput);

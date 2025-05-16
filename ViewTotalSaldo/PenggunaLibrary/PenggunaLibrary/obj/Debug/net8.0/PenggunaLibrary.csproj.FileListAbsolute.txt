@@ -1,0 +1,12 @@
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\bin\Debug\net8.0\PenggunaLibrary.deps.json
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\bin\Debug\net8.0\PenggunaLibrary.dll
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\bin\Debug\net8.0\PenggunaLibrary.pdb
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\obj\Debug\net8.0\PenggunaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\obj\Debug\net8.0\PenggunaLibrary.AssemblyInfoInputs.cache
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\obj\Debug\net8.0\PenggunaLibrary.AssemblyInfo.cs
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\obj\Debug\net8.0\PenggunaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\obj\Debug\net8.0\PenggunaLibrary.sourcelink.json
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\obj\Debug\net8.0\PenggunaLibrary.dll
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\obj\Debug\net8.0\refint\PenggunaLibrary.dll
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\obj\Debug\net8.0\PenggunaLibrary.pdb
+C:\Users\tb\Documents\GitHub\GUI_Kataks\ViewTotalSaldo\PenggunaLibrary\PenggunaLibrary\obj\Debug\net8.0\ref\PenggunaLibrary.dll

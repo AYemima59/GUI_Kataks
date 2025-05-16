@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\ViewTotalSaldo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ViewTotalSaldo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86ED666A-6DC9-4943-A1E2-E37F19995499}|TestProject1\\TestProject1.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\viewtotalsaldo\\testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86ED666A-6DC9-4943-A1E2-E37F19995499}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86ED666A-6DC9-4943-A1E2-E37F19995499}|TestProject1\\TestProject1.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\viewtotalsaldo\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86ED666A-6DC9-4943-A1E2-E37F19995499}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86ED666A-6DC9-4943-A1E2-E37F19995499}|TestProject1\\TestProject1.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\viewtotalsaldo\\testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86ED666A-6DC9-4943-A1E2-E37F19995499}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370ED1C4-A4F2-400D-B796-CC549FA6BF05}|ViewTotalSaldo\\ViewTotalSaldo.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\viewtotalsaldo\\viewtotalsaldo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370ED1C4-A4F2-400D-B796-CC549FA6BF05}|ViewTotalSaldo\\ViewTotalSaldo.csproj|solutionrelative:viewtotalsaldo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestProject1",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T04:34:23.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\TestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\TestProject1\\Test1.cs",
+              "RelativeToolTip": "TestProject1\\Test1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAApwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:25:45.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\TestProject1\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestProject1\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\TestProject1\\MSTestSettings.cs",
+              "RelativeToolTip": "TestProject1\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T04:24:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\ViewTotalSaldo\\Program.cs",
               "RelativeDocumentMoniker": "ViewTotalSaldo\\Program.cs",
               "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\ViewTotalSaldo\\ViewTotalSaldo\\Program.cs",
               "RelativeToolTip": "ViewTotalSaldo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T02:52:26.242Z",
               "EditorCaption": ""
