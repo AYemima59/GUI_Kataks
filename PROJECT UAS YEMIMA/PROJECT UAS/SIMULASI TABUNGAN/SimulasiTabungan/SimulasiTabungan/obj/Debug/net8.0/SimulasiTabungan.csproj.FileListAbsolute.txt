@@ -1,0 +1,15 @@
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\bin\Debug\net8.0\SimulasiTabungan.exe
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\bin\Debug\net8.0\SimulasiTabungan.deps.json
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\bin\Debug\net8.0\SimulasiTabungan.runtimeconfig.json
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\bin\Debug\net8.0\SimulasiTabungan.dll
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\bin\Debug\net8.0\SimulasiTabungan.pdb
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\SimulasiTabungan.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\SimulasiTabungan.AssemblyInfoInputs.cache
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\SimulasiTabungan.AssemblyInfo.cs
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\SimulasiTabungan.csproj.CoreCompileInputs.cache
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\SimulasiTabungan.sourcelink.json
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\SimulasiTabungan.dll
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\refint\SimulasiTabungan.dll
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\SimulasiTabungan.pdb
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\SimulasiTabungan.genruntimeconfig.cache
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks\PROJECT UAS YEMIMA\PROJECT UAS\SIMULASI TABUNGAN\SimulasiTabungan\SimulasiTabungan\obj\Debug\net8.0\ref\SimulasiTabungan.dll

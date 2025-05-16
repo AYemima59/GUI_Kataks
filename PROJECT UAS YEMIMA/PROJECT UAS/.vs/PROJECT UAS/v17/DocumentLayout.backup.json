@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TEL-U\\UAS KONTRUKSI\\GUI_Kataks\\PROJECT UAS YEMIMA\\PROJECT UAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D32AFB-2D20-46BB-92F8-5093A79BB12F}|PROJECT UAS\\PROJECT UAS.csproj|d:\\tel-u\\uas kontruksi\\gui_kataks\\project uas yemima\\project uas\\project uas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D32AFB-2D20-46BB-92F8-5093A79BB12F}|PROJECT UAS\\PROJECT UAS.csproj|solutionrelative:project uas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D32AFB-2D20-46BB-92F8-5093A79BB12F}|PROJECT UAS\\PROJECT UAS.csproj|d:\\tel-u\\uas kontruksi\\gui_kataks\\project uas yemima\\project uas\\project uas\\controllers\\simulasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D32AFB-2D20-46BB-92F8-5093A79BB12F}|PROJECT UAS\\PROJECT UAS.csproj|solutionrelative:project uas\\controllers\\simulasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D32AFB-2D20-46BB-92F8-5093A79BB12F}|PROJECT UAS\\PROJECT UAS.csproj|d:\\tel-u\\uas kontruksi\\gui_kataks\\project uas yemima\\project uas\\project uas\\models\\simulasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D32AFB-2D20-46BB-92F8-5093A79BB12F}|PROJECT UAS\\PROJECT UAS.csproj|solutionrelative:project uas\\models\\simulasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simulasi.cs",
+              "DocumentMoniker": "D:\\TEL-U\\UAS KONTRUKSI\\GUI_Kataks\\PROJECT UAS YEMIMA\\PROJECT UAS\\PROJECT UAS\\Models\\Simulasi.cs",
+              "RelativeDocumentMoniker": "PROJECT UAS\\Models\\Simulasi.cs",
+              "ToolTip": "D:\\TEL-U\\UAS KONTRUKSI\\GUI_Kataks\\PROJECT UAS YEMIMA\\PROJECT UAS\\PROJECT UAS\\Models\\Simulasi.cs",
+              "RelativeToolTip": "PROJECT UAS\\Models\\Simulasi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:32:18.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TEL-U\\UAS KONTRUKSI\\GUI_Kataks\\PROJECT UAS YEMIMA\\PROJECT UAS\\PROJECT UAS\\Program.cs",
+              "RelativeDocumentMoniker": "PROJECT UAS\\Program.cs",
+              "ToolTip": "D:\\TEL-U\\UAS KONTRUKSI\\GUI_Kataks\\PROJECT UAS YEMIMA\\PROJECT UAS\\PROJECT UAS\\Program.cs",
+              "RelativeToolTip": "PROJECT UAS\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:07:48.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Simulasi.cs",
+              "DocumentMoniker": "D:\\TEL-U\\UAS KONTRUKSI\\GUI_Kataks\\PROJECT UAS YEMIMA\\PROJECT UAS\\PROJECT UAS\\Controllers\\Simulasi.cs",
+              "RelativeDocumentMoniker": "PROJECT UAS\\Controllers\\Simulasi.cs",
+              "ToolTip": "D:\\TEL-U\\UAS KONTRUKSI\\GUI_Kataks\\PROJECT UAS YEMIMA\\PROJECT UAS\\PROJECT UAS\\Controllers\\Simulasi.cs",
+              "RelativeToolTip": "PROJECT UAS\\Controllers\\Simulasi.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:49:35.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
