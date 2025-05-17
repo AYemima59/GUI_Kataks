@@ -1,0 +1,15 @@
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pemasukan.exe
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pemasukan.deps.json
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pemasukan.runtimeconfig.json
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pemasukan.dll
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Pemasukan.pdb
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pemasukan.GeneratedMSBuildEditorConfig.editorconfig
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pemasukan.AssemblyInfoInputs.cache
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pemasukan.AssemblyInfo.cs
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pemasukan.csproj.CoreCompileInputs.cache
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pemasukan.sourcelink.json
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pemasukan.dll
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Pemasukan.dll
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pemasukan.pdb
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Pemasukan.genruntimeconfig.cache
+C:\semester 6\kataks\GUI_Kataks\FiturPemasukan\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Pemasukan.dll

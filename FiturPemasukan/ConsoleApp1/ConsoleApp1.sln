@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pemasukan", "ConsoleApp1\Pemasukan.csproj", "{BA791728-5904-472E-94BF-41F24A29424A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikasiPemasukan.Tests", "AplikasiPemasukan.Tests\AplikasiPemasukan.Tests.csproj", "{28184CFE-DD73-4AB1-A007-9EA2DC785F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA791728-5904-472E-94BF-41F24A29424A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA791728-5904-472E-94BF-41F24A29424A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA791728-5904-472E-94BF-41F24A29424A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA791728-5904-472E-94BF-41F24A29424A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28184CFE-DD73-4AB1-A007-9EA2DC785F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28184CFE-DD73-4AB1-A007-9EA2DC785F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28184CFE-DD73-4AB1-A007-9EA2DC785F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28184CFE-DD73-4AB1-A007-9EA2DC785F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E64155A3-B325-45A2-AFC6-5F7D64372364}
+	EndGlobalSection
+EndGlobal
