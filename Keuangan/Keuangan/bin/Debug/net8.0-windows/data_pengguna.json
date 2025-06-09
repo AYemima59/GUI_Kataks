@@ -1,0 +1,65 @@
+[
+  {
+    "Nama": "John Doe",
+    "Pin": "1234",
+    "Saldo": 5000000.00,
+    "Transaksi": [
+      {
+        "Tanggal": "2023-10-01",
+        "Jenis": "Pemasukan",
+        "Jumlah": 1000000.00
+      },
+      {
+        "Tanggal": "2023-10-05",
+        "Jenis": "Pengeluaran",
+        "Jumlah": 500000.00
+      }
+    ]
+  },
+  {
+    "Nama": "Jane Smith",
+    "Pin": "5678",
+    "Saldo": 7500000.50,
+    "Transaksi": [
+      {
+        "Tanggal": "2023-10-02",
+        "Jenis": "Pemasukan",
+        "Jumlah": 2000000.00
+      },
+      {
+        "Tanggal": "2023-10-06",
+        "Jenis": "Pengeluaran",
+        "Jumlah": 300000.00
+      }
+    ]
+  },
+  {
+    "Nama": "Bob Johnson",
+    "Pin": "9012",
+    "Saldo": 2500000.75,
+    "Transaksi": [
+      {
+        "Tanggal": "2023-10-03",
+        "Jenis": "Pemasukan",
+        "Jumlah": 1500000.00
+      },
+      {
+        "Tanggal": "2023-10-07",
+        "Jenis": "Pengeluaran",
+        "Jumlah": 200000.00
+      }
+    ]
+  },
+  {
+    "Nama": "Nopal",
+    "Pin": "12345",
+    "Saldo": 100001,
+    "Transaksi": [
+      {
+        "Tanggal": "2025-06-10",
+        "Jenis": "Pemasukan",
+        "Jumlah": 2
+      }
+    ]
+  }
+]
