@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiturPemasukan", "FiturPemasukan\FiturPemasukan.csproj", "{9C6B686E-A8F7-40EF-B181-077AC6D4D11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6B686E-A8F7-40EF-B181-077AC6D4D11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6B686E-A8F7-40EF-B181-077AC6D4D11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6B686E-A8F7-40EF-B181-077AC6D4D11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6B686E-A8F7-40EF-B181-077AC6D4D11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F01146AD-A65F-4432-9037-155E3AAD96C1}
+	EndGlobalSection
+EndGlobal

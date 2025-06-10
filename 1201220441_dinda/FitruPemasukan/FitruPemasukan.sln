@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitruPemasukan", "FitruPemasukan\FitruPemasukan.csproj", "{787DFD40-4D8C-49AB-A0A4-CA213BC23C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787DFD40-4D8C-49AB-A0A4-CA213BC23C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787DFD40-4D8C-49AB-A0A4-CA213BC23C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787DFD40-4D8C-49AB-A0A4-CA213BC23C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787DFD40-4D8C-49AB-A0A4-CA213BC23C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58429A29-DA8C-4F85-B7DA-94370224B589}
+	EndGlobalSection
+EndGlobal

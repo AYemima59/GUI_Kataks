@@ -1,0 +1,10 @@
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\bin\Debug\GUICatatanPemasukan.exe.config
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\bin\Debug\GUICatatanPemasukan.exe
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\bin\Debug\GUICatatanPemasukan.pdb
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\obj\Debug\GUICatatanPemasukan.csproj.AssemblyReference.cache
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\obj\Debug\GUICatatanPemasukan.Form1.resources
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\obj\Debug\GUICatatanPemasukan.Properties.Resources.resources
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\obj\Debug\GUICatatanPemasukan.csproj.GenerateResource.cache
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\obj\Debug\GUICatatanPemasukan.csproj.CoreCompileInputs.cache
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\obj\Debug\GUICatatanPemasukan.exe
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\GUICatatanPemasukan\GUICatatanPemasukan\obj\Debug\GUICatatanPemasukan.pdb

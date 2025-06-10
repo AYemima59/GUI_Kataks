@@ -1,0 +1,10 @@
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\bin\Debug\FiturPemasukan.exe.config
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\bin\Debug\FiturPemasukan.exe
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\bin\Debug\FiturPemasukan.pdb
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\obj\Debug\FiturPemasukan.csproj.AssemblyReference.cache
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\obj\Debug\FiturPemasukan.Form1.resources
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\obj\Debug\FiturPemasukan.Properties.Resources.resources
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\obj\Debug\FiturPemasukan.csproj.GenerateResource.cache
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\obj\Debug\FiturPemasukan.csproj.CoreCompileInputs.cache
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\obj\Debug\FiturPemasukan.exe
+C:\semester 6\hai katak\GUI_Kataks\1201220441_dinda\FiturPemasukan\FiturPemasukan\obj\Debug\FiturPemasukan.pdb
