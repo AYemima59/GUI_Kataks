@@ -30,7 +30,6 @@
         {
             button1 = new Button();
             button2 = new Button();
-            button3 = new Button();
             button4 = new Button();
             button5 = new Button();
             SuspendLayout();
@@ -55,24 +54,15 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
-            // button3
-            // 
-            button3.Location = new Point(12, 181);
-            button3.Name = "button3";
-            button3.Size = new Size(364, 143);
-            button3.TabIndex = 2;
-            button3.Text = "Tambah Pengguna";
-            button3.UseVisualStyleBackColor = true;
-            button3.Click += button3_Click;
-            // 
             // button4
             // 
-            button4.Location = new Point(424, 181);
+            button4.Location = new Point(12, 170);
             button4.Name = "button4";
-            button4.Size = new Size(364, 143);
+            button4.Size = new Size(776, 143);
             button4.TabIndex = 3;
             button4.Text = "Tambah Transaksi";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button5
             // 
@@ -80,8 +70,9 @@
             button5.Name = "button5";
             button5.Size = new Size(776, 108);
             button5.TabIndex = 4;
-            button5.Text = "Keluar";
+            button5.Text = "Simulasi";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // Form1
             // 
@@ -90,7 +81,6 @@
             ClientSize = new Size(800, 450);
             Controls.Add(button5);
             Controls.Add(button4);
-            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
             Name = "Form1";
@@ -102,7 +92,6 @@
 
         private Button button1;
         private Button button2;
-        private Button button3;
         private Button button4;
         private Button button5;
     }

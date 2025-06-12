@@ -9,7 +9,6 @@ using System.Text.Json;
 using System.Windows.Forms;
 using System.IO;
 using PenggunaLibrary;
-// Pastikan class Transaksi tersedia di PenggunaLibrary atau tambahkan definisinya di bawah jika belum ada
 
 // Jika Transaksi belum ada di PenggunaLibrary, tambahkan definisi berikut:
 public class Transaksi
@@ -23,41 +22,54 @@ namespace Keuangan
 {
     public partial class TambahTransaksi : Form
     {
-        private TextBox txtNama;
-        private TextBox txtPin;
-        private TextBox txtSaldoAwal;
+        // Hapus atau komentari field yang tidak diperlukan
+        // private TextBox txtNama;
+        // private TextBox txtPin;
+        // private TextBox txtSaldoAwal;
         private NumericUpDown numJumlahTransaksi;
         private Button btnTambahTransaksi;
         private Button btnSimpan;
         private Label lblNama;
-        private Label lblPin;
-        private Label lblSaldoAwal;
+        // private Label lblPin;
+        // private Label lblSaldoAwal;
         private Label lblJumlahTransaksi;
         private Panel panelTransaksi;
         private Panel panelUtama;
         private Label lblStatus;
         private List<Panel> transaksiPanels = new List<Panel>();
         private Label lblSaldoInfo;
-        private bool isExistingUser = false;
-        private Pengguna existingUser = null;
 
         public TambahTransaksi()
         {
             InitializeComponent();
             SetupUI();
+
+            // Tampilkan info user yang login
+            if (Session.CurrentUser != null)
+            {
+                lblNama.Text = $"Nama: {Session.CurrentUser.Nama}";
+                lblSaldoInfo.Visible = true;
+                lblSaldoInfo.Text = $"Saldo saat ini: {Session.CurrentUser.Saldo:C}";
+            }
+            else
+            {
+                lblNama.Text = "User belum login!";
+                lblStatus.Text = "Error: Silakan login terlebih dahulu!";
+            }
         }
 
         private void InitializeComponent()
         {
-            this.txtNama = new TextBox();
-            this.txtPin = new TextBox();
-            this.txtSaldoAwal = new TextBox();
+            // Hapus inisialisasi komponen yang tidak diperlukan
+            // this.txtNama = new TextBox();
+            // this.txtPin = new TextBox();
+            // this.txtSaldoAwal = new TextBox();
             this.numJumlahTransaksi = new NumericUpDown();
             this.btnTambahTransaksi = new Button();
             this.btnSimpan = new Button();
             this.lblNama = new Label();
-            this.lblPin = new Label();
-            this.lblSaldoAwal = new Label();
+            // this.lblPin = new Label();
+            // this.lblSaldoAwal = new Label();
             this.lblJumlahTransaksi = new Label();
             this.panelTransaksi = new Panel();
             this.panelUtama = new Panel();
@@ -72,102 +84,66 @@ namespace Keuangan
             this.Text = "Tambah Transaksi";
             this.StartPosition = FormStartPosition.CenterScreen;
 
-            // Main Panel that will contain user data
+            // Main Panel - ukuran lebih kecil karena tidak ada input nama/PIN
             this.panelUtama = new Panel();
             this.panelUtama.Location = new Point(20, 20);
-            this.panelUtama.Size = new Size(760, 200);
+            this.panelUtama.Size = new Size(760, 120); // Lebih kecil
             this.panelUtama.BorderStyle = BorderStyle.FixedSingle;
             this.panelUtama.Padding = new Padding(10);
             this.Controls.Add(this.panelUtama);
 
-            // Labels and TextBoxes
+            // Label nama (hanya untuk menampilkan, bukan input)
             this.lblNama = new Label();
-            this.lblNama.Text = "Nama:";
+            this.lblNama.Text = "Nama: ";
             this.lblNama.AutoSize = true;
-            this.lblNama.Location = new Point(20, 30);
+            this.lblNama.Font = new Font("Arial", 10F, FontStyle.Bold);
+            this.lblNama.Location = new Point(20, 20);
             this.panelUtama.Controls.Add(this.lblNama);
 
-            this.txtNama = new TextBox();
-            this.txtNama.Location = new Point(150, 30);
-            this.txtNama.Size = new Size(250, 30);
-            this.panelUtama.Controls.Add(this.txtNama);
-
-            this.lblPin = new Label();
-            this.lblPin.Text = "PIN:";
-            this.lblPin.AutoSize = true;
-            this.lblPin.Location = new Point(20, 70);
-            this.panelUtama.Controls.Add(this.lblPin);
-
-            this.txtPin = new TextBox();
-            this.txtPin.Location = new Point(150, 70);
-            this.txtPin.Size = new Size(250, 30);
-            this.txtPin.PasswordChar = '*';
-            this.panelUtama.Controls.Add(this.txtPin);
-
-            // Verify user button
-            Button btnVerify = new Button();
-            btnVerify.Text = "Verifikasi";
-            btnVerify.Location = new Point(410, 50);
-            btnVerify.Size = new Size(100, 30);
-            btnVerify.Click += btnVerify_Click;
-            this.panelUtama.Controls.Add(btnVerify);
-
-            // Saldo info label
+            // Saldo info label - selalu tampil
             this.lblSaldoInfo = new Label();
             this.lblSaldoInfo.AutoSize = false;
             this.lblSaldoInfo.Size = new Size(300, 30);
             this.lblSaldoInfo.BorderStyle = BorderStyle.FixedSingle;
             this.lblSaldoInfo.TextAlign = ContentAlignment.MiddleLeft;
-            this.lblSaldoInfo.Location = new Point(150, 110);
-            this.lblSaldoInfo.Visible = false;
+            this.lblSaldoInfo.Location = new Point(20, 50);
+            this.lblSaldoInfo.Font = new Font("Arial", 10F);
             this.panelUtama.Controls.Add(this.lblSaldoInfo);
 
-            this.lblSaldoAwal = new Label();
-            this.lblSaldoAwal.Text = "Saldo Awal:";
-            this.lblSaldoAwal.AutoSize = true;
-            this.lblSaldoAwal.Location = new Point(20, 110);
-            this.lblSaldoAwal.Visible = false;
-            this.panelUtama.Controls.Add(this.lblSaldoAwal);
-
-            this.txtSaldoAwal = new TextBox();
-            this.txtSaldoAwal.Location = new Point(150, 110);
-            this.txtSaldoAwal.Size = new Size(250, 30);
-            this.txtSaldoAwal.Visible = false;
-            this.panelUtama.Controls.Add(this.txtSaldoAwal);
-
+            // Jumlah transaksi
             this.lblJumlahTransaksi = new Label();
             this.lblJumlahTransaksi.Text = "Jumlah Transaksi:";
             this.lblJumlahTransaksi.AutoSize = true;
-            this.lblJumlahTransaksi.Location = new Point(20, 150);
+            this.lblJumlahTransaksi.Location = new Point(400, 20);
             this.panelUtama.Controls.Add(this.lblJumlahTransaksi);
 
             this.numJumlahTransaksi = new NumericUpDown();
-            this.numJumlahTransaksi.Location = new Point(150, 150);
-            this.numJumlahTransaksi.Size = new Size(100, 30);
+            this.numJumlahTransaksi.Location = new Point(520, 20);
+            this.numJumlahTransaksi.Size = new Size(80, 30);
             this.numJumlahTransaksi.Minimum = 1;
             this.numJumlahTransaksi.Maximum = 10;
             this.numJumlahTransaksi.Value = 1;
             this.panelUtama.Controls.Add(this.numJumlahTransaksi);
 
             this.btnTambahTransaksi = new Button();
-            this.btnTambahTransaksi.Text = "Tambah Transaksi";
-            this.btnTambahTransaksi.Location = new Point(260, 150);
-            this.btnTambahTransaksi.Size = new Size(140, 30);
+            this.btnTambahTransaksi.Text = "Buat Form";
+            this.btnTambahTransaksi.Location = new Point(610, 20);
+            this.btnTambahTransaksi.Size = new Size(100, 30);
             this.btnTambahTransaksi.Click += btnTambahTransaksi_Click;
             this.panelUtama.Controls.Add(this.btnTambahTransaksi);
 
-            // Panel for transactions
+            // Panel for transactions - posisi disesuaikan
             this.panelTransaksi = new Panel();
             this.panelTransaksi.AutoScroll = true;
-            this.panelTransaksi.Location = new Point(20, 240);
-            this.panelTransaksi.Size = new Size(760, 280);
+            this.panelTransaksi.Location = new Point(20, 160); // Disesuaikan
+            this.panelTransaksi.Size = new Size(760, 320);
             this.panelTransaksi.BorderStyle = BorderStyle.FixedSingle;
             this.Controls.Add(this.panelTransaksi);
 
             // Save button
             this.btnSimpan = new Button();
             this.btnSimpan.Text = "Simpan Transaksi";
-            this.btnSimpan.Location = new Point(650, 530);
+            this.btnSimpan.Location = new Point(650, 490);
             this.btnSimpan.Size = new Size(130, 40);
             this.btnSimpan.Click += btnSimpan_Click;
             this.Controls.Add(this.btnSimpan);
@@ -175,7 +151,7 @@ namespace Keuangan
             // Status label
             this.lblStatus = new Label();
             this.lblStatus.AutoSize = true;
-            this.lblStatus.Location = new Point(20, 540);
+            this.lblStatus.Location = new Point(20, 500);
             this.Controls.Add(this.lblStatus);
 
             ((ISupportInitialize)this.numJumlahTransaksi).EndInit();
@@ -188,70 +164,7 @@ namespace Keuangan
             CreateTransactionPanels(); // Create initial transaction panel
         }
 
-        private void btnVerify_Click(object sender, EventArgs e)
-        {
-            string filePath = "data_pengguna.json";
-
-            // Reset UI
-            isExistingUser = false;
-            existingUser = null;
-            lblSaldoAwal.Visible = false;
-            txtSaldoAwal.Visible = false;
-            lblSaldoInfo.Visible = false;
-
-            try
-            {
-                if (string.IsNullOrWhiteSpace(txtNama.Text) || string.IsNullOrWhiteSpace(txtPin.Text))
-                {
-                    lblStatus.Text = "Error: Nama dan PIN harus diisi!";
-                    return;
-                }
-
-                List<Pengguna> penggunaList = new List<Pengguna>();
-                if (File.Exists(filePath))
-                {
-                    string jsonData = File.ReadAllText(filePath);
-                    penggunaList = JsonSerializer.Deserialize<List<Pengguna>>(jsonData) ?? new List<Pengguna>();
-                }
-
-                string namaInput = txtNama.Text;
-                string pinInput = txtPin.Text;
-
-                // Check if user exists
-                existingUser = penggunaList.FirstOrDefault(p =>
-                    p.Nama.Equals(namaInput, StringComparison.OrdinalIgnoreCase) && p.Pin == pinInput);
-
-                if (existingUser != null)
-                {
-                    isExistingUser = true;
-                    lblSaldoInfo.Text = $"Saldo saat ini: {existingUser.Saldo:C}";
-                    lblSaldoInfo.Visible = true;
-                    lblStatus.Text = "✓ Pengguna ditemukan! Silakan tambahkan transaksi.";
-                }
-                else
-                {
-                    // Check if user exists but PIN is wrong
-                    var userWrongPin = penggunaList.FirstOrDefault(p =>
-                        p.Nama.Equals(namaInput, StringComparison.OrdinalIgnoreCase));
-
-                    if (userWrongPin != null)
-                    {
-                        lblStatus.Text = "Error: PIN salah!";
-                        return;
-                    }
-
-                    // New user
-                    isExistingUser = false;
-                    lblSaldoAwal.Visible = true;
-                    txtSaldoAwal.Visible = true;
-                    lblStatus.Text = "ℹ️ Pengguna baru akan dibuat. Masukkan saldo awal.";
-                }
-            }
-            catch (Exception ex)
-            {
-                lblStatus.Text = $"Error: {ex.Message}";
-            }
-        }
+        // Hapus method btnVerify_Click karena tidak diperlukan lagi
 
         private void CreateTransactionPanels()
         {
@@ -337,31 +250,12 @@ namespace Keuangan
         {
             try
             {
-                // Validation
-                if (string.IsNullOrWhiteSpace(txtNama.Text) || string.IsNullOrWhiteSpace(txtPin.Text))
+                if (Session.CurrentUser == null)
                 {
-                    lblStatus.Text = "Error: Nama dan PIN harus diisi!";
+                    lblStatus.Text = "Error: Anda belum login!";
                     return;
                 }
 
-                // For new users, saldo harus diisi
-                if (!isExistingUser && string.IsNullOrWhiteSpace(txtSaldoAwal.Text))
-                {
-                    lblStatus.Text = "Error: Saldo Awal harus diisi untuk pengguna baru!";
-                    return;
-                }
-
-                decimal saldo = 0;
-                if (!isExistingUser)
-                {
-                    if (!decimal.TryParse(txtSaldoAwal.Text, out saldo))
-                    {
-                        lblStatus.Text = "Error: Saldo Awal harus berupa angka!";
-                        return;
-                    }
-                }
-
-                // Get existing data
                 string filePath = "data_pengguna.json";
                 List<Pengguna> penggunaList = new List<Pengguna>();
 
@@ -381,6 +275,12 @@ namespace Keuangan
                     TextBox txtTanggal = (TextBox)panel.Controls.Find($"txtTanggal_{panel.Tag}", true)[0];
                     ComboBox cboJenis = (ComboBox)panel.Controls.Find($"cboJenis_{panel.Tag}", true)[0];
                     TextBox txtJumlah = (TextBox)panel.Controls.Find($"txtJumlah_{panel.Tag}", true)[0];
+
+                    if (string.IsNullOrWhiteSpace(txtJumlah.Text))
+                    {
+                        lblStatus.Text = $"Error: Jumlah pada Transaksi #{(int)panel.Tag + 1} harus diisi!";
+                        return;
+                    }
 
                     if (!decimal.TryParse(txtJumlah.Text, out decimal jumlah))
                     {
@@ -402,75 +302,37 @@ namespace Keuangan
                     });
                 }
 
-                if (isExistingUser)
+                // Update existing user (dari session)
+                int index = penggunaList.FindIndex(p =>
+                    p.Nama.Equals(Session.CurrentUser.Nama, StringComparison.OrdinalIgnoreCase) &&
+                    p.Pin == Session.CurrentUser.Pin);
+
+                if (index >= 0)
                 {
-                    // Update existing user
-                    int index = penggunaList.FindIndex(p =>
-                        p.Nama.Equals(txtNama.Text, StringComparison.OrdinalIgnoreCase) && p.Pin == txtPin.Text);
+                    // Update saldo
+                    penggunaList[index].Saldo += totalPemasukan - totalPengeluaran;
 
-                    if (index >= 0)
-                    {
-                        // Update saldo
-                        penggunaList[index].Saldo += totalPemasukan - totalPengeluaran;
+                    // Add new transactions
+                    if (penggunaList[index].Transaksi == null)
+                        penggunaList[index].Transaksi = new List<Transaksi>();
 
-                        // Add new transactions
-                        if (penggunaList[index].Transaksi == null)
-                            penggunaList[index].Transaksi = new List<Transaksi>();
+                    penggunaList[index].Transaksi.AddRange(transaksiList);
 
-                        penggunaList[index].Transaksi.AddRange(transaksiList);
+                    // Update session user juga
+                    Session.CurrentUser.Saldo = penggunaList[index].Saldo;
+                    Session.CurrentUser.Transaksi = penggunaList[index].Transaksi;
 
-                        lblStatus.Text = $"✓ {transaksiList.Count} transaksi telah ditambahkan! Saldo terbaru: {penggunaList[index].Saldo:C}";
-                    }
-                }
-                else
-                {
-                    // Create new user
-                    Pengguna penggunaBaru = new Pengguna
-                    {
-                        Nama = txtNama.Text,
-                        Pin = txtPin.Text,
-                        Saldo = saldo + totalPemasukan - totalPengeluaran,
-                        Transaksi = transaksiList
-                    };
-
-                    penggunaList.Add(penggunaBaru);
-                    lblStatus.Text = "✓ Pengguna baru dan transaksi berhasil disimpan!";
+                    lblStatus.Text = $"✓ {transaksiList.Count} transaksi telah ditambahkan! Saldo terbaru: {penggunaList[index].Saldo:C}";
+                    lblSaldoInfo.Text = $"Saldo saat ini: {penggunaList[index].Saldo:C}";
                 }
 
                 // Save back to file
                 string jsonBaru = JsonSerializer.Serialize(penggunaList, new JsonSerializerOptions { WriteIndented = true });
                 File.WriteAllText(filePath, jsonBaru);
 
-                // Reset transaction fields but keep user info
-                if (isExistingUser)
-                {
-                    // Refresh user information
-                    existingUser = penggunaList.FirstOrDefault(p =>
-                        p.Nama.Equals(txtNama.Text, StringComparison.OrdinalIgnoreCase) && p.Pin == txtPin.Text);
-
-                    if (existingUser != null)
-                    {
-                        lblSaldoInfo.Text = $"Saldo saat ini: {existingUser.Saldo:C}";
-                    }
-
-                    // Reset just transaction panels for adding more
-                    numJumlahTransaksi.Value = 1;
-                    CreateTransactionPanels();
-                }
-                else
-                {
-                    // For new user completely reset the form
-                    txtNama.Text = "";
-                    txtPin.Text = "";
-                    txtSaldoAwal.Text = "";
-                    lblSaldoAwal.Visible = false;
-                    txtSaldoAwal.Visible = false;
-                    lblSaldoInfo.Visible = false;
-                    numJumlahTransaksi.Value = 1;
-                    CreateTransactionPanels();
-                    isExistingUser = false;
-                    existingUser = null;
-                }
+                // Reset transaction panels for adding more
+                numJumlahTransaksi.Value = 1;
+                CreateTransactionPanels();
             }
             catch (Exception ex)
             {

@@ -20,3 +20,4 @@ C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windo
 C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.genruntimeconfig.cache
 C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\ref\Keuangan.dll
 c:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Transaksi.resources
+C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.LoginRegister.resources
