@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Keuangan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae4547e2f822bfe7b0b650c0869e062492bd1e1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f6b58fe02317893f9dd227893815fa00d785354")]
 [assembly: System.Reflection.AssemblyProductAttribute("Keuangan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Keuangan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
