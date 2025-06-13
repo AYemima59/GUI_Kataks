@@ -18,33 +18,29 @@ namespace Keuangan
 
         public CekSaldo()
         {
-            lblResult = new Label();
-            lblResult.BorderStyle = BorderStyle.FixedSingle;
-            lblResult.Location = new Point(25, 40);
-            lblResult.Name = "lblResult";
-            lblResult.Padding = new Padding(5);
-            lblResult.Size = new Size(514, 80);
-            lblResult.TabIndex = 1;
-
-            ClientSize = new Size(590, 180);
-            Controls.Add(lblResult);
-            Name = "CekSaldo";
-            StartPosition = FormStartPosition.CenterScreen;
-            Load += CekSaldo_Load;
+            InitializeComponent();
         }
 
         private void CekSaldo_Load(object sender, EventArgs e)
         {
             if (Session.CurrentUser != null)
             {
-                lblResult.Text = $"Data Pengguna:\n" +
-                                 $"Nama: {Session.CurrentUser.Nama}\n" +
-                                 $"Saldo: {Session.CurrentUser.Saldo:C}";
+                textBox1.Text = $"{Session.CurrentUser.Saldo:C}";
             }
             else
             {
-                lblResult.Text = "Anda belum login!";
+                textBox1.Text = "Anda belum login!";
             }
+        }
+
+        private void backButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -53,13 +53,39 @@
   {
     "Nama": "Nopal",
     "Pin": "12345",
-    "Saldo": 100001,
+    "Saldo": 81501,
     "Transaksi": [
       {
         "Tanggal": "2025-06-10",
         "Jenis": "Pemasukan",
         "Jumlah": 2
+      },
+      {
+        "Tanggal": "2025-06-12",
+        "Jenis": "Pengeluaran",
+        "Jumlah": 10000
+      },
+      {
+        "Tanggal": "2025-06-13",
+        "Jenis": "Pengeluaran",
+        "Jumlah": 10000
+      },
+      {
+        "Tanggal": "2025-06-13",
+        "Jenis": "Pengeluaran",
+        "Jumlah": 500
+      },
+      {
+        "Tanggal": "2025-06-13",
+        "Jenis": "Pemasukan",
+        "Jumlah": 2000
       }
     ]
+  },
+  {
+    "Nama": "Naufal",
+    "Pin": "fawwaz453",
+    "Saldo": 0,
+    "Transaksi": []
   }
 ]

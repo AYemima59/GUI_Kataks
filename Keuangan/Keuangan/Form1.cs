@@ -1,3 +1,5 @@
+using GUIKATAK;
+
 namespace Keuangan
 {
     public partial class Form1 : Form
@@ -15,17 +17,15 @@ namespace Keuangan
 
         private void button2_Click(object sender, EventArgs e)
         {
-            // Show the history form (you can implement this later)
+            History historyForm = new History();
+            historyForm.ShowDialog();
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void button5_Click(object sender, EventArgs e)
         {
-
+            Simulasi simulasi = new Simulasi();
+            simulasi.ShowDialog();
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -33,6 +33,27 @@ namespace Keuangan
             TambahTransaksi tambahTransaksiForm = new TambahTransaksi();
             tambahTransaksiForm.ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            // Logout: hapus user aktif
+            Session.CurrentUser = null;
+
+            // Tampilkan kembali form login
+            this.Hide();
+            var loginForm = new LoginRegister();
+            if (loginForm.ShowDialog() == DialogResult.OK)
+            {
+                // Jika login berhasil, tampilkan Form1 lagi
+                this.Show();
+            }
+            else
+            {
+                // Jika tidak login, tutup aplikasi
+                this.Close();
+            }
+        }
+
 
         // Other button handlers can be added here
     }

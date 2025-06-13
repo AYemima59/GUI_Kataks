@@ -19,5 +19,35 @@ C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windo
 C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.pdb
 C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.genruntimeconfig.cache
 C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\ref\Keuangan.dll
-c:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Transaksi.resources
 C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.LoginRegister.resources
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\bin\Debug\net8.0-windows\Keuangan.exe
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\bin\Debug\net8.0-windows\Keuangan.deps.json
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\bin\Debug\net8.0-windows\Keuangan.runtimeconfig.json
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\bin\Debug\net8.0-windows\Keuangan.dll
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\bin\Debug\net8.0-windows\Keuangan.pdb
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\bin\Debug\net8.0-windows\PenggunaLibrary.dll
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.csproj.AssemblyReference.cache
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.CekSaldo.resources
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.Form1.resources
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.LoginRegister.resources
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.csproj.GenerateResource.cache
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.AssemblyInfoInputs.cache
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.AssemblyInfo.cs
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.csproj.CoreCompileInputs.cache
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.csproj.Up2Date
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.dll
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\refint\Keuangan.dll
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.pdb
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.genruntimeconfig.cache
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\ref\Keuangan.dll
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.Properties.Resources.resources
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\GUIKATAK.Simulasi.resources
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\History.Form1.resources
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.OLD.TambahTransaksi.resources
+D:\TEL-U\UAS KONTRUKSI\GUI_Kataks-1201220446_naufal\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.TambahTransaksi.resources
+C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.OLD.TambahTransaksi.resources
+C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.Properties.Resources.resources
+C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\GUIKATAK.Simulasi.resources
+C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.TambahTransaksi.resources
+C:\Users\tb\Documents\GitHub\GUI_Kataks\Keuangan\Keuangan\obj\Debug\net8.0-windows\Keuangan.History.resources

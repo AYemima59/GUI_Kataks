@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\tambahtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\tambahtransaksi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\keuangan\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\history.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\history.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\keuangan\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,36 +39,40 @@
       "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\pengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\keuangan\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\tambahtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\bin\\Debug\\net8.0-windows\\data_pengguna.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Keuangan\\bin\\Debug\\net8.0-windows\\data_pengguna.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\ceksaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\ceksaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\keuangan\\ceksaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\ceksaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\ceksaldo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\ceksaldo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\keuangan\\ceksaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\ceksaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\keuangan\\simulasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\simulasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|c:\\users\\tb\\documents\\github\\gui_kataks\\keuangan\\keuangan\\simulasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73FF0B8-CB86-443E-A3C0-7AB5E0FCB46A}|Keuangan\\Keuangan.csproj|solutionrelative:keuangan\\simulasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +82,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
+              "Title": "CekSaldo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\CekSaldo.cs",
+              "RelativeDocumentMoniker": "Keuangan\\CekSaldo.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\CekSaldo.cs [Design]",
+              "RelativeToolTip": "Keuangan\\CekSaldo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:47:33.801Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LoginRegister.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\LoginRegister.cs",
               "RelativeDocumentMoniker": "Keuangan\\LoginRegister.cs",
@@ -62,37 +106,23 @@
               "RelativeToolTip": "Keuangan\\LoginRegister.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T05:21:02.405Z",
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Program.cs",
-              "RelativeDocumentMoniker": "Keuangan\\Program.cs",
-              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Program.cs",
-              "RelativeToolTip": "Keuangan\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Simulasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Simulasi.cs",
+              "RelativeDocumentMoniker": "Keuangan\\Simulasi.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Simulasi.cs [Design]",
+              "RelativeToolTip": "Keuangan\\Simulasi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T05:19:45.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T11:55:30.17Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TambahTransaksi.cs",
-              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\TambahTransaksi.cs",
-              "RelativeDocumentMoniker": "Keuangan\\TambahTransaksi.cs",
-              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\TambahTransaksi.cs",
-              "RelativeToolTip": "Keuangan\\TambahTransaksi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T05:19:42.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Form1.cs",
               "RelativeDocumentMoniker": "Keuangan\\Form1.cs",
@@ -100,82 +130,183 @@
               "RelativeToolTip": "Keuangan\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T19:46:44.95Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Form1.cs",
-              "RelativeDocumentMoniker": "Keuangan\\Form1.cs",
-              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Form1.cs",
-              "RelativeToolTip": "Keuangan\\Form1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADgvyEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:56:14.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Transaksi.cs",
-              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Transaksi.cs",
-              "RelativeDocumentMoniker": "Keuangan\\Transaksi.cs",
-              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Transaksi.cs",
-              "RelativeToolTip": "Keuangan\\Transaksi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T05:19:47.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "data_pengguna.json",
-              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\bin\\Debug\\net8.0-windows\\data_pengguna.json",
-              "RelativeDocumentMoniker": "Keuangan\\bin\\Debug\\net8.0-windows\\data_pengguna.json",
-              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\bin\\Debug\\net8.0-windows\\data_pengguna.json",
-              "RelativeToolTip": "Keuangan\\bin\\Debug\\net8.0-windows\\data_pengguna.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-09T19:58:22.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "CekSaldo.cs",
               "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\CekSaldo.cs",
               "RelativeDocumentMoniker": "Keuangan\\CekSaldo.cs",
               "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\CekSaldo.cs",
               "RelativeToolTip": "Keuangan\\CekSaldo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwCUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:47:49.81Z",
+              "WhenOpened": "2025-06-12T12:59:34.864Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TambahTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\TambahTransaksi.cs",
+              "RelativeDocumentMoniker": "Keuangan\\TambahTransaksi.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\TambahTransaksi.cs",
+              "RelativeToolTip": "Keuangan\\TambahTransaksi.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:54:18.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "TambahTransaksi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\TambahTransaksi.Designer.cs",
+              "RelativeDocumentMoniker": "Keuangan\\TambahTransaksi.Designer.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\TambahTransaksi.Designer.cs",
+              "RelativeToolTip": "Keuangan\\TambahTransaksi.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:54:13.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\History.cs",
+              "RelativeDocumentMoniker": "Keuangan\\History.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\History.cs",
+              "RelativeToolTip": "Keuangan\\History.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:54:11.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Keuangan\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Form1.Designer.cs",
+              "RelativeToolTip": "Keuangan\\Form1.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAkwHwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:43:20.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\History.cs",
+              "RelativeDocumentMoniker": "Keuangan\\History.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\History.cs [Design]",
+              "RelativeToolTip": "Keuangan\\History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:41:40.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Session.cs",
+              "RelativeDocumentMoniker": "Keuangan\\Session.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Session.cs",
+              "RelativeToolTip": "Keuangan\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:48:44.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TambahTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\TambahTransaksi.cs",
+              "RelativeDocumentMoniker": "Keuangan\\TambahTransaksi.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\TambahTransaksi.cs [Design]",
+              "RelativeToolTip": "Keuangan\\TambahTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:43:56.961Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Form1.cs",
+              "RelativeDocumentMoniker": "Keuangan\\Form1.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Form1.cs",
+              "RelativeToolTip": "Keuangan\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAtwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:59:49.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "History.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\History.Designer.cs",
+              "RelativeDocumentMoniker": "Keuangan\\History.Designer.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\History.Designer.cs",
+              "RelativeToolTip": "Keuangan\\History.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T01:41:46.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pengguna.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Pengguna.cs",
+              "RelativeDocumentMoniker": "Keuangan\\Pengguna.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Pengguna.cs",
+              "RelativeToolTip": "Keuangan\\Pengguna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:02:59.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRegister.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\LoginRegister.cs",
+              "RelativeDocumentMoniker": "Keuangan\\LoginRegister.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\LoginRegister.cs",
+              "RelativeToolTip": "Keuangan\\LoginRegister.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T02:02:49.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CekSaldo.Designer.cs",
               "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\CekSaldo.Designer.cs",
               "RelativeDocumentMoniker": "Keuangan\\CekSaldo.Designer.cs",
               "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\CekSaldo.Designer.cs",
               "RelativeToolTip": "Keuangan\\CekSaldo.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:47:38.842Z"
+              "WhenOpened": "2025-06-12T12:58:54.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CekSaldo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\CekSaldo.cs",
-              "RelativeDocumentMoniker": "Keuangan\\CekSaldo.cs",
-              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\CekSaldo.cs [Design]",
-              "RelativeToolTip": "Keuangan\\CekSaldo.cs [Design]",
+              "DocumentIndex": 17,
+              "Title": "Simulasi.cs",
+              "DocumentMoniker": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Simulasi.cs",
+              "RelativeDocumentMoniker": "Keuangan\\Simulasi.cs",
+              "ToolTip": "C:\\Users\\tb\\Documents\\GitHub\\GUI_Kataks\\Keuangan\\Keuangan\\Simulasi.cs",
+              "RelativeToolTip": "Keuangan\\Simulasi.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAIA5wIgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:47:33.801Z"
+              "WhenOpened": "2025-06-12T13:25:47.75Z"
             }
           ]
         }

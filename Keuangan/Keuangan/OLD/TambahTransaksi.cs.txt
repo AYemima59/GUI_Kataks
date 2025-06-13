@@ -1,0 +1,115 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text.Json;
+using System.Windows.Forms;
+
+namespace Keuangan
+{
+    public partial class TambahTransaksi : Form
+    {
+        public TambahTransaksi()
+        {
+            InitializeComponent();
+
+            // Update label saldo sesuai user aktif
+            if (Session.CurrentUser != null)
+                lblSaldo.Text = $"Sisa Saldo: {Session.CurrentUser.Saldo:C}";
+            else
+                lblSaldo.Text = "Sisa Saldo: Rp0";
+
+            // Set default jenis transaksi
+            if (cmbJenis.Items.Count > 0)
+                cmbJenis.SelectedIndex = 0;
+
+            // Bersihkan status dan jumlah
+            lblStatus.Text = "";
+            txtJumlah.Text = "";
+        }
+
+        private void BtnSubmit_Click(object sender, EventArgs e)
+        {
+            if (Session.CurrentUser == null)
+            {
+                lblStatus.Text = "User tidak ditemukan!";
+                return;
+            }
+
+            if (!decimal.TryParse(txtJumlah.Text, out decimal jumlah) || jumlah <= 0)
+            {
+                lblStatus.Text = "Jumlah harus angka positif!";
+                return;
+            }
+
+            string jenis = cmbJenis.SelectedItem.ToString();
+            decimal saldoBaru = Session.CurrentUser.Saldo;
+
+            if (jenis == "Pengeluaran" && jumlah > saldoBaru)
+            {
+                lblStatus.Text = "Saldo tidak cukup!";
+                return;
+            }
+
+            // Update saldo
+            if (jenis == "Pemasukan")
+                saldoBaru += jumlah;
+            else
+                saldoBaru -= jumlah;
+
+            // Tambah transaksi
+            var transaksiBaru = new Transaksi
+            {
+                Tanggal = DateTime.Now.ToString("yyyy-MM-dd"),
+                Jenis = jenis,
+                Jumlah = jumlah
+            };
+            Session.CurrentUser.Transaksi.Add(transaksiBaru);
+            Session.CurrentUser.Saldo = saldoBaru;
+
+            // Simpan ke file
+            try
+            {
+                string filePath = "data_pengguna.json";
+                var penggunaList = new List<Pengguna>();
+                if (File.Exists(filePath))
+                {
+                    string json = File.ReadAllText(filePath);
+                    penggunaList = JsonSerializer.Deserialize<List<Pengguna>>(json) ?? new List<Pengguna>();
+                }
+
+                // Update user di list
+                var user = penggunaList.FirstOrDefault(p => p.Nama == Session.CurrentUser.Nama && p.Pin == Session.CurrentUser.Pin);
+                if (user != null)
+                {
+                    user.Saldo = Session.CurrentUser.Saldo;
+                    user.Transaksi = Session.CurrentUser.Transaksi;
+                }
+
+                string jsonBaru = JsonSerializer.Serialize(penggunaList, new JsonSerializerOptions { WriteIndented = true });
+                File.WriteAllText(filePath, jsonBaru);
+
+                lblStatus.ForeColor = Color.Green;
+                lblStatus.Text = "Transaksi berhasil!";
+                lblSaldo.Text = $"Sisa Saldo: {Session.CurrentUser.Saldo:C}";
+                txtJumlah.Text = "";
+
+                // Tambahkan alert popup
+                if (jenis == "Pemasukan")
+                {
+                    MessageBox.Show($"Saldo berhasil ditambahkan sebesar {jumlah:C}.", "Pemasukan", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                else
+                {
+                    MessageBox.Show($"Saldo berhasil dikeluarkan sebesar {jumlah:C}.", "Pengeluaran", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+            catch (Exception ex)
+            {
+                lblStatus.ForeColor = Color.Red;
+                lblStatus.Text = $"Gagal simpan: {ex.Message}";
+            }
+        }
+    }
+}

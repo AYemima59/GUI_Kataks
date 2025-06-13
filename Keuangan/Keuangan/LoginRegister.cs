@@ -22,6 +22,8 @@ namespace Keuangan
             if (string.IsNullOrEmpty(nama) || string.IsNullOrEmpty(pin))
             {
                 lblStatus.Text = "Nama dan PIN harus diisi!";
+                lblStatus.ForeColor = System.Drawing.Color.Red;
+                MessageBox.Show("Nama dan PIN harus diisi!", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
@@ -69,12 +71,16 @@ namespace Keuangan
             if (string.IsNullOrEmpty(nama) || string.IsNullOrEmpty(pin))
             {
                 lblStatus.Text = "Nama dan PIN harus diisi!";
+                lblStatus.ForeColor = System.Drawing.Color.Red;
+                MessageBox.Show("Nama dan PIN harus diisi!", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
             if (pin.Length < 4)
             {
                 lblStatus.Text = "PIN minimal 4 digit!";
+                lblStatus.ForeColor = System.Drawing.Color.Red;
+                MessageBox.Show("PIN minimal 4 digit!", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
@@ -123,6 +129,26 @@ namespace Keuangan
                 lblStatus.Text = $"Error: {ex.Message}";
                 lblStatus.ForeColor = System.Drawing.Color.Red;
             }
+        }
+
+        private void lblTitle_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPin_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblNama_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblPin_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
