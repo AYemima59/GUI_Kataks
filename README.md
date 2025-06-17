@@ -1,3 +1,5 @@
+# Full Merge GUI ada di branch Naufal
+
 **Repository :**
 
 1. Silahkan melakukan clone terhadap repository main dengan perintah di cmd atau terminal: **git clone https://github.com/AYemima59/GUI_Kataks.git**
