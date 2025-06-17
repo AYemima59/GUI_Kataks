@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a/hpXuCmJB5N+KdbZdHYsHOpwQj9eSxtzkjc90pRnY5egQJDy6as1ess0hx7rAyAlcMVLlxL33GeXkB26pX/bQ==",
+  "success": true,
+  "projectFilePath": "/home/tb/Downloads/GUI_Kataks-e3020bb8bb52e4e1b4abc97d5120f5b60f6bddd5/GUI_Kataks-e3020bb8bb52e4e1b4abc97d5120f5b60f6bddd5/ViewTotalSaldo/PenggunaLibrary/PenggunaLibrary/PenggunaLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/tb/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
