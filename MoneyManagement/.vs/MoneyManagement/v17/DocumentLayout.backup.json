@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\GUI_Kataks\\MoneyManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A894503B-77E1-44EF-B66C-86815BB80969}|UnitTesting History\\UnitTesting History.csproj|e:\\github\\gui_kataks\\moneymanagement\\unittesting history\\historymanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A894503B-77E1-44EF-B66C-86815BB80969}|UnitTesting History\\UnitTesting History.csproj|solutionrelative:unittesting history\\historymanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5280E0-BC73-467F-A3BF-E58B4AD92A63}|MoneyManagement\\MoneyManagement.csproj|e:\\github\\gui_kataks\\moneymanagement\\moneymanagement\\historymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5280E0-BC73-467F-A3BF-E58B4AD92A63}|MoneyManagement\\MoneyManagement.csproj|solutionrelative:moneymanagement\\historymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5280E0-BC73-467F-A3BF-E58B4AD92A63}|MoneyManagement\\MoneyManagement.csproj|e:\\github\\gui_kataks\\moneymanagement\\moneymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC5280E0-BC73-467F-A3BF-E58B4AD92A63}|MoneyManagement\\MoneyManagement.csproj|solutionrelative:moneymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5280E0-BC73-467F-A3BF-E58B4AD92A63}|MoneyManagement\\MoneyManagement.csproj|e:\\github\\gui_kataks\\moneymanagement\\moneymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5280E0-BC73-467F-A3BF-E58B4AD92A63}|MoneyManagement\\MoneyManagement.csproj|solutionrelative:moneymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A894503B-77E1-44EF-B66C-86815BB80969}|UnitTesting History\\UnitTesting History.csproj|e:\\github\\gui_kataks\\moneymanagement\\unittesting history\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A894503B-77E1-44EF-B66C-86815BB80969}|UnitTesting History\\UnitTesting History.csproj|solutionrelative:unittesting history\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A894503B-77E1-44EF-B66C-86815BB80969}|UnitTesting History\\UnitTesting History.csproj|e:\\github\\gui_kataks\\moneymanagement\\unittesting history\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A894503B-77E1-44EF-B66C-86815BB80969}|UnitTesting History\\UnitTesting History.csproj|solutionrelative:unittesting history\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5280E0-BC73-467F-A3BF-E58B4AD92A63}|MoneyManagement\\MoneyManagement.csproj|e:\\github\\gui_kataks\\moneymanagement\\moneymanagement\\moneymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC5280E0-BC73-467F-A3BF-E58B4AD92A63}|MoneyManagement\\MoneyManagement.csproj|solutionrelative:moneymanagement\\moneymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoryManagerTest.cs",
+              "DocumentMoniker": "E:\\github\\GUI_Kataks\\MoneyManagement\\UnitTesting History\\HistoryManagerTest.cs",
+              "RelativeDocumentMoniker": "UnitTesting History\\HistoryManagerTest.cs",
+              "ToolTip": "E:\\github\\GUI_Kataks\\MoneyManagement\\UnitTesting History\\HistoryManagerTest.cs",
+              "RelativeToolTip": "UnitTesting History\\HistoryManagerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T12:26:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "E:\\github\\GUI_Kataks\\MoneyManagement\\UnitTesting History\\Test1.cs",
+              "RelativeDocumentMoniker": "UnitTesting History\\Test1.cs",
+              "ToolTip": "E:\\github\\GUI_Kataks\\MoneyManagement\\UnitTesting History\\Test1.cs",
+              "RelativeToolTip": "UnitTesting History\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:50:05.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "E:\\github\\GUI_Kataks\\MoneyManagement\\UnitTesting History\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "UnitTesting History\\MSTestSettings.cs",
+              "ToolTip": "E:\\github\\GUI_Kataks\\MoneyManagement\\UnitTesting History\\MSTestSettings.cs",
+              "RelativeToolTip": "UnitTesting History\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:49:32.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoneyManagement",
+              "DocumentMoniker": "E:\\github\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\MoneyManagement.csproj",
+              "RelativeDocumentMoniker": "MoneyManagement\\MoneyManagement.csproj",
+              "ToolTip": "E:\\github\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\MoneyManagement.csproj",
+              "RelativeToolTip": "MoneyManagement\\MoneyManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T11:33:44.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSettings.json",
+              "DocumentMoniker": "E:\\github\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\AppSettings.json",
+              "RelativeDocumentMoniker": "MoneyManagement\\AppSettings.json",
+              "ToolTip": "E:\\github\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\AppSettings.json",
+              "RelativeToolTip": "MoneyManagement\\AppSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T11:34:55.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryManager.cs",
+              "DocumentMoniker": "E:\\github\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\HistoryManager.cs",
+              "RelativeDocumentMoniker": "MoneyManagement\\HistoryManager.cs",
+              "ToolTip": "E:\\github\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\HistoryManager.cs",
+              "RelativeToolTip": "MoneyManagement\\HistoryManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:34:06.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\github\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\Program.cs",
+              "RelativeDocumentMoniker": "MoneyManagement\\Program.cs",
+              "ToolTip": "E:\\github\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\Program.cs",
+              "RelativeToolTip": "MoneyManagement\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T11:33:41.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
