@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\moneymanagement\\moneymanagement\\MoneyManagement.csproj": {}
+    "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\MoneyManagement.csproj": {}
   },
   "projects": {
-    "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\moneymanagement\\moneymanagement\\MoneyManagement.csproj": {
+    "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\MoneyManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\moneymanagement\\moneymanagement\\MoneyManagement.csproj",
+        "projectUniqueName": "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\MoneyManagement.csproj",
         "projectName": "MoneyManagement",
-        "projectPath": "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\moneymanagement\\moneymanagement\\MoneyManagement.csproj",
+        "projectPath": "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\MoneyManagement.csproj",
         "packagesPath": "C:\\Users\\Alin_\\.nuget\\packages\\",
-        "outputPath": "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\moneymanagement\\moneymanagement\\obj\\",
+        "outputPath": "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alin_\\AppData\\Roaming\\NuGet\\NuGet.Config"

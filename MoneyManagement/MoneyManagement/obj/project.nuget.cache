@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FVh9ftSRuB8=",
+  "dgSpecHash": "FfCHgfclseI=",
   "success": true,
-  "projectFilePath": "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\moneymanagement\\moneymanagement\\MoneyManagement.csproj",
+  "projectFilePath": "C:\\Alip\\Github\\Gui_kataks_main\\GUI_Kataks\\MoneyManagement\\MoneyManagement\\MoneyManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alin_\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.5\\microsoft.extensions.configuration.9.0.5.nupkg.sha512",
     "C:\\Users\\Alin_\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.5\\microsoft.extensions.configuration.abstractions.9.0.5.nupkg.sha512",
